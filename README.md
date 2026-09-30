@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Gabriel Fernando Trejo Paz \ 23212239; L23212239@tectijuana.edu.mx
 
