@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Gabriel Fernando Trejo Paz \ 23212239; L23212239@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
