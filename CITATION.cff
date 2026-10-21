@@ -2,23 +2,25 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Práctica 1: Diseño de controladores'
+title: 'Práctica dos: Sistema cardiovascular'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Gabriel Fernando
+  - given-names: Gabriel F.
     family-names: Trejo Paz
     email: l23212239@tijuana.tecnm.mx
     affiliation: TecNM / IT Tijuana
-repository-code: 'https://github.com/l23212239/MSFP1'
+repository-code: 'https://github.com/l23212239/MSFP2'
 keywords:
-  - Circuito RLC
+  - Modelo WindkesseL
+  - Sistema cardiovascular
+  - Presión arterial
+  - Flujo sanguíneo
+  - Ecuaciones diferenciales ordinarias
   - Controlador PID
-  - Sistema respiratorio
-  - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-09-29'
+date-released: '2026-10-20'
